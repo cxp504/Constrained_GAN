@@ -1,5 +1,5 @@
 # coding=utf-8
-# from https://github.com/google/compare_gan
+# DCGAN network from https://github.com/google/compare_gan
 
 from __future__ import absolute_import
 from __future__ import division
