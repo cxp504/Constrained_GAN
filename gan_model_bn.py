@@ -1,5 +1,5 @@
 # coding=utf-8
-
+# DCGAN network, BN in G and D
 import tensorflow as tf
 
 batchsize = 64
