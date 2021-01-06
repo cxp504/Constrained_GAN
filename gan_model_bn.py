@@ -1,5 +1,6 @@
 # coding=utf-8
 # DCGAN network, BN in G and D
+# Generate 128x128 images
 import tensorflow as tf
 
 batchsize = 64
